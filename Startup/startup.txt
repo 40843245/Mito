@@ -1,0 +1,34 @@
+In this article, I will talk about how to use Mito.
+--------------------------------------
+Preparation:
+Before using it, please check
+(1.1)It is installed.
+(1.2)Jupyter notebook can work properly.
+
+--------------------------------------
+Startup:
+Step 1: 
+Open or create a Jupyter file (.ipynb) in Jupyter notebook.
+
+Step 2:
+In a cell, type these following commands.
+import mitosheet
+mitosheet.sheet()
+
+Step 3:
+Run the cell.
+
+Step 4:
+It will pop up a window, asking you what file you want to use.
+Select your excel file (.xlsx etc) that you want to use.
+
+Step 5:
+Click ok button.
+
+Step 6:
+Then you we see the Python code in your Jupyter file in Jupyter notebook.
+
+--------------------------------------
+[ref]
+(1)Official Documentation: 
+https://docs.trymito.io/how-to/creating-a-mitosheet
